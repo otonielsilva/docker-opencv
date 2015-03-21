@@ -1,4 +1,4 @@
-from	ubuntu:12.10
+from	ubuntu:14.04
 
 # Ubuntu sides with libav, I side with ffmpeg.
 run	echo "deb http://ppa.launchpad.net/jon-severinsson/ffmpeg/ubuntu quantal main" >> /etc/apt/sources.list
